@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -type f -a
+ls -a
